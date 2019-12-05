@@ -1,0 +1,295 @@
+{
+  "lista": [
+    {
+      "Equipe": {
+        "nome_equipe": "Scuderia Ferrari",
+        "fundacao": 1939,
+        "pais_origem": "Italia",
+        "categoria": {
+          "nome_categoria":"Formula 1",
+          "potencia":"927 cv"
+
+        },
+        "chef_equipe": {
+          "nome_chef":"Mattia Binotto",
+          "idade":50,
+          "carreira": "formado em engenharia assumio a equipe em 2019",
+
+        },
+        "motor":{
+          "nome_motor":"Ferrari 064",
+          "potencia":"927 cv",
+          "motador":"Ferrari"
+
+        },
+        "carro":{
+          "cor":"vermelho e preto",
+          "equipe": {
+            "nome_equipe": "Scuderia Ferrari",
+            "fundacao": 1939,
+            "pais_origem": "Italia",
+            "categoria": {
+              "nome_categoria":"Formula 1",
+              "potencia":"927 cv"
+
+            },
+            "pneu":"Pirreli"
+
+        },
+        "piloto_1":{
+          "nome_piloto":"Sebastian Vettel",
+          "idade":32,
+          "equipe": {
+            "nome_equipe": "Scuderia Ferrari",
+            "fundacao": 1939,
+            "pais_origem": "Italia",
+            "categoria": {
+              "nome_categoria":"Formula 1",
+              "potencia":"927 cv"
+
+            },
+            "penalidade": {
+              "nome_penalidade":"corte de curva",
+              "motivo":"cortou a curva 10",
+              "tempo":"3 segundos",
+              "avisos":"nenhum aviso",
+              "bandeira":"preta e branca"
+  
+            },
+            "pista": {
+              "nome_pista":"Melbourne",
+              "tamanho":"5,303 km",
+              "pais":"Australia",
+              "numero_curvas": 16
+            },
+          "carreira":"tetra campeão pela RBR"
+        },
+
+        "piloto_2":{
+          "nome_piloto":"Charles Leclerc",
+          "idade":32,
+          "equipe": {
+            "nome_equipe": "Scuderia Ferrari",
+            "fundacao": 1939,
+            "pais_origem": "Italia",
+            "categoria": {
+              "nome_categoria":"Formula 1",
+              "potencia":"927 cv"
+
+            },
+            "penalidade": {
+              "nome_penalidade":"ultrapassagem ilegal",
+              "motivo":"ultrapassou em zona invalidaa",
+              "tempo":"0 segundos, devolver posição",
+              "avisos":"nenhum aviso",
+              "bandeira":"amarela"
+  
+            },
+            "pista": {
+              "nome_pista":"Melbourne",
+              "tamanho":"5,303 km",
+              "pais":"Australia",
+              "numero_curvas": 16
+            },
+          "carreira":"estreou na f1 pela alfa romeu"
+        }
+      }
+      
+  {   
+      "Camp_Pilotos": {
+        "piloto":{
+          "nome_piloto":"Sebastian Vettel",
+          "idade":32,
+          "equipe": {
+            "nome_equipe": "Scuderia Ferrari",
+            "fundacao": 1939,
+            "pais_origem": "Italia",
+            "categoria": {
+              "nome_categoria":"Formula 1",
+              "potencia":"927 cv"
+
+            },
+            "penalidade": {
+              "nome_penalidade":"corte de curva",
+              "motivo":"cortou a curva 10",
+              "tempo":"3 segundos",
+              "avisos":"nenhum aviso",
+              "bandeira":"preta e branca"
+  
+            },
+            "pista": {
+              "nome_pista":"Melbourne",
+              "tamanho":"5,303 km",
+              "pais":"Australia",
+              "numero_curvas": 16
+            },
+            "carreira":"tetra campeão pela RBR"
+        },
+        "pontuação": 247,
+        "equipe":{
+          "nome_equipe": "Scuderia Ferrari",
+        "fundacao": 1939,
+        "pais_origem": "Italia",
+        "categoria": {
+          "nome_categoria":"Formula 1",
+          "potencia":"927 cv"
+
+        },
+        "chef_equipe": {
+          "nome_chef":"Mattia Binotto",
+          "idade":50,
+          "carreira": "formado em engenharia assumio a equipe em 2019",
+
+        },
+        "motor":{
+          "nome_motor":"Ferrari 064",
+          "potencia":"927 cv",
+          "motador":"Ferrari"
+
+        },
+        "carro":{
+          "cor":"vermelho e preto",
+          "equipe": {
+            "nome_equipe": "Scuderia Ferrari",
+            "fundacao": 1939,
+            "pais_origem": "Italia",
+            "categoria": {
+              "nome_categoria":"Formula 1",
+              "potencia":"927 cv"
+
+            },
+            "pneu":"Pirreli"
+
+        },
+        "piloto_1":{
+          "nome_piloto":"Sebastian Vettel",
+          "idade":32,
+          "equipe": {
+            "nome_equipe": "Scuderia Ferrari",
+            "fundacao": 1939,
+            "pais_origem": "Italia",
+            "categoria": {
+              "nome_categoria":"Formula 1",
+              "potencia":"927 cv"
+
+            },
+            "penalidade": {
+              "nome_penalidade":"corte de curva",
+              "motivo":"cortou a curva 10",
+              "tempo":"3 segundos",
+              "avisos":"nenhum aviso",
+              "bandeira":"preta e branca"
+  
+            },
+            "pista": {
+              "nome_pista":"Melbourne",
+              "tamanho":"5,303 km",
+              "pais":"Australia",
+              "numero_curvas": 16
+            },
+            "carreira":"tetra campeão pela RBR"
+        },
+        "piloto_2":{
+          "nome_piloto":"Charles Leclerc",
+          "idade":32,
+          "equipe": {
+            "nome_equipe": "Scuderia Ferrari",
+            "fundacao": 1939,
+            "pais_origem": "Italia",
+            "categoria": {
+              "nome_categoria":"Formula 1",
+              "potencia":"927 cv"
+
+            },
+            "penalidade": {
+              "nome_penalidade":"ultrapassagem ilegal",
+              "motivo":"ultrapassou em zona invalidaa",
+              "tempo":"0 segundos, devolver posição",
+              "avisos":"nenhum aviso",
+              "bandeira":"amarela"
+  
+            },
+            "pista": {
+              "nome_pista":"Melbourne",
+              "tamanho":"5,303 km",
+              "pais":"Australia",
+              "numero_curvas": 16
+            },
+          "carreira":"estreou na f1 pela alfa romeu"
+    }
+
+    {
+      "Camp_Contrutores":{
+        "pontuação": 504,
+        "equipe":{
+          "nome_equipe": "Scuderia Ferrari",
+            "fundacao": 1939,
+            "pais_origem": "Italia",
+            "categoria": {
+              "nome_categoria":"Formula 1",
+              "potencia":"927 cv"
+
+        },
+        "piloto_1":{
+          "nome_piloto":"Sebastian Vettel",
+          "idade":32,
+          "equipe": {
+            "nome_equipe": "Scuderia Ferrari",
+            "fundacao": 1939,
+            "pais_origem": "Italia",
+            "categoria": {
+              "nome_categoria":"Formula 1",
+              "potencia":"927 cv"
+
+            },
+            "penalidade": {
+              "nome_penalidade":"corte de curva",
+              "motivo":"cortou a curva 10",
+              "tempo":"3 segundos",
+              "avisos":"nenhum aviso",
+              "bandeira":"preta e branca"
+  
+            },
+            "pista": {
+              "nome_pista":"Melbourne",
+              "tamanho":"5,303 km",
+              "pais":"Australia",
+              "numero_curvas": 16
+            },
+            "carreira":"tetra campeão pela RBR"
+
+        },
+        "piloto_2":{
+          "nome_piloto":"Charles Leclerc",
+          "idade":32,
+          "equipe": {
+            "nome_equipe": "Scuderia Ferrari",
+            "fundacao": 1939,
+            "pais_origem": "Italia",
+            "categoria": {
+              "nome_categoria":"Formula 1",
+              "potencia":"927 cv"
+
+            },
+            "penalidade": {
+              "nome_penalidade":"ultrapassagem ilegal",
+              "motivo":"ultrapassou em zona invalidaa",
+              "tempo":"0 segundos, devolver posição",
+              "avisos":"nenhum aviso",
+              "bandeira":"amarela"
+  
+            },
+            "pista": {
+              "nome_pista":"Melbourne",
+              "tamanho":"5,303 km",
+              "pais":"Australia",
+              "numero_curvas": 16
+            },
+          "carreira":"estreou na f1 pela alfa romeu"
+
+        }
+      }        
+    }      
+    }
+  ]
+}
